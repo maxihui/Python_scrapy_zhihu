@@ -1,0 +1,2 @@
+# Python_scrapy_zhihu
+使用scrapy爬去知乎用户简单信息
